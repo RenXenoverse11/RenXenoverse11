@@ -17,20 +17,31 @@ Computer Engineering student based in Davao City, building full-stack web apps a
 | [the-last-aethon-unity](https://github.com/RenXenoverse11/the-last-aethon-unity) | Unity 6, C#, Shader Graph |
 | [the-last-aethon](https://github.com/RenXenoverse11/the-last-aethon) | Phaser 3, TypeScript, Vite |
 
-### 🌐 Web Dev
+### 🌐 Web Apps
 
 | Project | Stack |
 |---|---|
 | [OJT-Tracker](https://github.com/RenXenoverse11/OJT-Tracker) | React, TypeScript, Tailwind, Supabase |
-| [renai](https://github.com/RenXenoverse11/renai) | Svelte |
-| [WeatherDashboard](https://github.com/RenXenoverse11/WeatherDashboard) | Svelte |
+| [IMS](https://github.com/RenXenoverse11/IMS) | Internship Management System — SvelteKit, deployed as a Google Apps Script web app |
+| [mindaride](https://github.com/RenXenoverse11/mindaride) | Ride-planning app for Mindanao — TanStack Start, Supabase, Leaflet |
+| [renai](https://github.com/RenXenoverse11/renai) | Aura AI — SvelteKit chat app powered by Groq |
+| [ISOC-KPI-MONITORING](https://github.com/RenXenoverse11/ISOC-KPI-MONITORING) | Ops dashboard for submarine cable network KPIs — Google Apps Script |
+| [LJ.DEV](https://github.com/RenXenoverse11/LJ.DEV) | Personal portfolio — React 19, Three.js, Framer Motion |
+| [toolrift](https://github.com/RenXenoverse11/toolrift) | Directory of small web utility tools — Next.js |
+| [WeatherDashboard](https://github.com/RenXenoverse11/WeatherDashboard) | Svelte, TypeScript |
+
+### 📱 Mobile
+
+| Project | Stack |
+|---|---|
+| [jobagz-store](https://github.com/RenXenoverse11/jobagz-store) | Sari-sari store inventory tracker — Flutter, Dart |
 
 ### 🔧 Other
 
 | Project | Stack |
 |---|---|
-| [first-aid-thesis](https://github.com/RenXenoverse11/first-aid-thesis) | Python, Tkinter, OpenCV, Raspberry Pi |
-| [beamblaster](https://github.com/RenXenoverse11/beamblaster) | C++, Arduino |
+| [first-aid-thesis](https://github.com/RenXenoverse11/first-aid-thesis) | Thesis project: gamified first-aid learning app — Python, Tkinter, OpenCV, Raspberry Pi |
+| [beamblaster](https://github.com/RenXenoverse11/beamblaster) | Arcade-style Arduino target game — C++, Arduino |
 
 ---
 
@@ -47,7 +58,10 @@ Computer Engineering student based in Davao City, building full-stack web apps a
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
 ### 📊 GitHub Stats
 
