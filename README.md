@@ -53,7 +53,3 @@ Computer Engineering student based in Davao City, building full-stack web apps a
 
 ![](https://github-readme-stats.vercel.app/api?username=RenXenoverse11&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenXenoverse11&theme=dark&hide_border=false&layout=compact)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=RenXenoverse11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
