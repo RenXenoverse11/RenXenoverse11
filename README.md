@@ -6,7 +6,7 @@ Computer Engineering student based in Davao City, building full-stack web apps a
 - 💻 Full-stack development with JavaScript/TypeScript, Python, C++, and C#
 - 🌱 Interested in game dev, web dev, and embedded/IoT projects (Arduino, Raspberry Pi)
 - 📫 Reach me at laurencejan1431@gmail.com
-- 🔗 Portfolio: https://laurence-portfolio-gamma.vercel.app/
+- 🔗 Portfolio: https://laurencejan.vercel.app/
 
 ---
 
